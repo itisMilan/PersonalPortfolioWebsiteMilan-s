@@ -31,6 +31,10 @@ import {
 
 export const navLinks = [
   {
+    id:"https://iammilan.hashnode.dev/",
+    title:"Blog"
+  },
+  {
     id: "about",
     title: "About",
   },
