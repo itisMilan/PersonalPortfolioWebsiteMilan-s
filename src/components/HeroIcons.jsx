@@ -11,7 +11,7 @@ function HeroIcons({ Icon, name }) {
              key={item.id}
              className="px-2"
             >
-                <a href="#">
+                <a href={item.link}>
 
                        <img width="44" height="44" src={item.id} alt="github"/>
                 </a>
