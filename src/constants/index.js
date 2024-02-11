@@ -28,6 +28,20 @@ import {
   logo1,
   logo2,
 } from "../assets";
+export const iconLinks=[
+  {
+    id:"https://cdn-icons-png.flaticon.com/128/2111/2111471.png",
+    link:"https://iammilan.hashnode.dev/",
+  },
+  {
+    id:"https://cdn-icons-png.flaticon.com/128/2111/2111292.png",
+    link:"https://github.com/itisMilan"
+  },
+  {
+    id:"https://cdn-icons-png.flaticon.com/128/2111/2111368.png",
+    link:"https://www.linkedin.com/in/abhay-milaan/"
+  }
+]
 
 export const navLinks = [
   {
